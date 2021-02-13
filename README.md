@@ -1,10 +1,16 @@
 ## CSE 40657/60657
 # Homework 1
+# Jake Huber (jhuber4)
 
-Please see http://www.nd.edu/~dchiang/teaching/nlp/hw1.html for instructions.
+URL: https://github.com/huber02j/nlp-hw1
 
-Data source:
+How to build/run:
+    
+    Part 1:
+        run the program by typing ./baseline.py
+        This will run the program to test the unigram model and output the accuracy when tested on data/dev
 
-Tao Chen and Min-Yen Kan (2013). Creating a Live, Public Short Message Service Corpus: The NUS SMS Corpus. Language Resources and Evaluation, 47(2)(2013), pages 299-355. URL: https://link.springer.com/article/10.1007%2Fs10579-012-9197-9
+    Part 2:
 
-Chen, T., Kan Min-Yen (2015-03-09). The National University of Singapore SMS Corpus. ScholarBank@NUS Repository. [Dataset]. https://doi.org/10.25540/WVM0-4RNX
+    Part 3:
+
